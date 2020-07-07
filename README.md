@@ -1,4 +1,4 @@
-# Mod2-NodeJSUpload
+# Mod2-NodeJS Upload
 O desafio consiste em continuar a api de transações porém incluindo agora conexão com banco de dados e upload de arquivos.
 
 ### Rotas da aplicação
